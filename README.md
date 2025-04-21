@@ -110,7 +110,6 @@ Data: 20/05/2025 11:00
 ### 📃 Observações
 
 - Os dados são armazenados **apenas em memória**. Isso significa que, ao reiniciar o sistema, as informações serão perdidas.
-- O sistema foi desenvolvido como parte de um estudo para melhor entendimento de **Java** e **orientação a objetos**.
 - Para a criação desse sistema, baseei-me em videos aulas disponveis na plataforma do Youtube, além do material didático fornecido em sala de aula. Abaixo segue os links dos videos utilizados.
   1. [Playlist - Introdução a Java](https://www.youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR)
   2. [Video: Métodos e atributos STATIC](https://youtu.be/TW5FthKNr50?si=0RT8WxgFbnhEEhqK)
